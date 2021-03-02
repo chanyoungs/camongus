@@ -1,0 +1,6 @@
+{
+  "prettier.semi": false,
+  "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+  "typescriptHero.imports.insertSemicolons": false,
+  "autoimport.useSemiColon": false
+}
